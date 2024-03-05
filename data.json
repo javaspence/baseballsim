@@ -1,0 +1,26 @@
+{
+    "batters": {
+        "team1": {
+            "batter1": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter2": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter3": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter4": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter5": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter6": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter7": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter8": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter9": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}
+        },
+        "team2": {
+            "batter1": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter2": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter3": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter4": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter5": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter6": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter7": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter8": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}, 
+            "batter9": {"AB": 0, "Hits": 0, "2B": 0, "3B": 0, "HR": 0, "Avg": 0.000}
+        }    
+    }
+}
